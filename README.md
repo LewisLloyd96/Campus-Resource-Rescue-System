@@ -6,4 +6,4 @@
 
 # Users can: Create an account, list items with descriptions and photos, search and filter available items, reserve items and schedule pickups, and view their listings and reservations.
 
-#Department managers can approve department-owned items and track savings. Administrators can manage users, review reports, and generate system-usage and sustainability reports.
+# Department managers can approve department-owned items and track savings. Administrators can manage users, review reports, and generate system-usage and sustainability reports.
